@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/KonfHubAssignment/static/css/main.7e7d797e.css",
+    "main.js": "/KonfHubAssignment/static/js/main.fd54a44c.js",
+    "static/js/453.dbd6c0fb.chunk.js": "/KonfHubAssignment/static/js/453.dbd6c0fb.chunk.js",
+    "index.html": "/KonfHubAssignment/index.html",
+    "main.7e7d797e.css.map": "/KonfHubAssignment/static/css/main.7e7d797e.css.map",
+    "main.fd54a44c.js.map": "/KonfHubAssignment/static/js/main.fd54a44c.js.map",
+    "453.dbd6c0fb.chunk.js.map": "/KonfHubAssignment/static/js/453.dbd6c0fb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7e7d797e.css",
+    "static/js/main.fd54a44c.js"
+  ]
+}
